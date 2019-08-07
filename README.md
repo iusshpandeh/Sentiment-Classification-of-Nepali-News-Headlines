@@ -1,6 +1,6 @@
-# nepaliNLP
+# Sentiment Classification of Nepali News headlines.
 
-Sentiment Classification of Nepali News headlines.
+
 
 This was created was a final year project for CsIT.
 
