@@ -12,9 +12,9 @@ api.py contains the Flask code where the model was implemented to scrape Kantipu
 
 Members:
 
-Ayush Pandey
-Arati Bhattarai
-Kushal Lal Shrestha 
+Ayush Pandey,
+Arati Bhattarai,
+Kushal Lal Shrestha, 
 Dip Aryal
 
 NCCS College, Year 2019
