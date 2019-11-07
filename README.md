@@ -6,7 +6,7 @@ Multiple news websites were scraped to collect the headlines. We labeled them as
 
 complete.ipynb is the Jupyter notebook file where the complete code is kept.
 
-Overall accuracy, recall and precision was around 70%. 
+Overall accuracy, recall and precision was around 82%. 
 
 api.py contains the Flask code where the model was implemented to scrape Kantipur Daily and other sites in real time to classify the sentiment of the headlines. 
 
